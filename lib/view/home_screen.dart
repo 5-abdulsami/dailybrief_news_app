@@ -113,7 +113,7 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
             ),
             SizedBox(
-              height: height * 0.55,
+              height: height * 0.50,
               width: width,
               child: FutureBuilder<HeadlinesModel>(
                   future: newsViewModel.fetchHeadlinesAPI(name),
