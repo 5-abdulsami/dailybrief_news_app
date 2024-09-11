@@ -1,4 +1,14 @@
 # DailyBrief: A Real-time News App
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github.com/5-abdulsami/dailybrief_news_app/raw/main/images/app_screenshots/splash_screen.png" alt="News Screen" width="200" height="350"/>
+  <img src="https://github.com/5-abdulsami/dailybrief_news_app/raw/main/images/app_screenshots/news_screen.png" alt="News Screen" width="200" height="350"/>
+  <img src="https://github.com/5-abdulsami/dailybrief_news_app/raw/main/images/app_screenshots/sources_screen.png?raw=true" alt="Category Screen" width="200" height="350"/>
+  <img src="https://github.com/5-abdulsami/dailybrief_news_app/raw/main/images/app_screenshots/categories_screen.png?raw=true" alt="Category Screen" width="200" height="350"/>
+  
+</div>
+<br>
+
 ## Overview
 
 DailyBrief is a Flutter-based news application built using the MVVM architecture. It offers users a seamless and intuitive experience to stay updated with the latest news from various sources and categories. The app leverages the News API to fetch real-time news articles and provides a clean, user-friendly interface.
